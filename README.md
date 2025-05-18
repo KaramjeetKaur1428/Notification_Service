@@ -1,5 +1,4 @@
 # Notification_Service
-# Notification-Services
 PEPSALES INTERN ASSIGN. | System to send notifications to users.
 
 # Notification Service
